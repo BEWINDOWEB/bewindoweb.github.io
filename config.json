@@ -1,0 +1,8 @@
+{
+  "name": "三颗豆子的wiki",
+  "ver": "",
+  "logo": "assets/logo.png",
+  "imports": [
+    "assets/bwb.css"
+  ]
+}
