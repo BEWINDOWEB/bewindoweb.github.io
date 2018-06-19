@@ -3,6 +3,7 @@
   "ver": "",
   "logo": "assets/logo.png",
   "imports": [
-    "assets/bwb.css"
+    "assets/bwb.css",
+    "assets/bwb.js"
   ]
 }

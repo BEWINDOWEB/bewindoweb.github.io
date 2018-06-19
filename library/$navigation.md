@@ -36,7 +36,13 @@
 - [按键精灵中文乱码，输入中文变成问号](?file=001-出错解决手册（编程类）/00032-按键精灵中文乱码，输入中文变成问号 "按键精灵中文乱码，输入中文变成问号")
 - [php7.0出现undefined function mb_convert_encoding&#40;&#41;](?file=001-出错解决手册（编程类）/00033-php7.0出现undefined function mb_convert_encoding&#40;&#41; "php7.0出现undefined function mb_convert_encoding&#40;&#41;")
 - [php7：date&#40;&#41;时间和当前时间不一致](?file=001-出错解决手册（编程类）/00034-php7：date&#40;&#41;时间和当前时间不一致 "php7：date&#40;&#41;时间和当前时间不一致")
+- [mysql：中文乱码](?file=001-出错解决手册（编程类）/00035-mysql：中文乱码 "mysql：中文乱码")
+- [CSS：二级菜单被遮挡住](?file=001-出错解决手册（编程类）/00036-CSS：二级菜单被遮挡住 "CSS：二级菜单被遮挡住")
+- [html：点击按钮Button页面会刷新](?file=001-出错解决手册（编程类）/00037-html：点击按钮Button页面会刷新 "html：点击按钮Button页面会刷新")
+- [vmware：无法打开虚拟机，似乎正在被使用](?file=001-出错解决手册（编程类）/00038-vmware：无法打开虚拟机，似乎正在被使用 "vmware：无法打开虚拟机，似乎正在被使用")
+- [windows安装mysql5.6版本时，服务mysql56无法启动的问题](?file=001-出错解决手册（编程类）/00039-windows安装mysql5.6版本时，服务mysql56无法启动的问题 "windows安装mysql5.6版本时，服务mysql56无法启动的问题")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
 - [游戏运行时提示MSVCR100.dll](?file=002-出错解决手册（其他）/00002-游戏运行时提示MSVCR100.dll "游戏运行时提示MSVCR100.dll")
+- [AE在输出.H264格式的MP4时候出现-1610153453 ae error](?file=002-出错解决手册（其他）/00003-AE在输出.H264格式的MP4时候出现-1610153453 ae error "AE在输出.H264格式的MP4时候出现-1610153453 ae error")
