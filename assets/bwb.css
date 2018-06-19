@@ -202,11 +202,18 @@ font-size:14px;
 background-color:#f1f8ff;
 color: #0366d6;
 height:20px;
-margin-top:5px;
-margin-bottom:5px;
+margin:5px 3px;
 padding:3px 0px;
 white-space: normal;
 line-height:2.0;
+}
+.markdown-body img {
+  text-align:center;
+  margin: 10px auto;
+  display:block;
+}
+.markdown-body pre code {
+    font-size:14px;
 }
 
 @media screen and (max-width: 720px){
