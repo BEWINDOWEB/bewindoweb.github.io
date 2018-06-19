@@ -28,6 +28,15 @@
 - [pre标签chrome下不能自动换行](?file=001-出错解决手册（编程类）/00024-pre标签chrome下不能自动换行 "pre标签chrome下不能自动换行")
 - [jquery报错：Unexpected end of input](?file=001-出错解决手册（编程类）/00025-jquery报错：Unexpected end of input "jquery报错：Unexpected end of input")
 - [mysql建表时出现Ignoring query to other database](?file=001-出错解决手册（编程类）/00026-mysql建表时出现Ignoring query to other database "mysql建表时出现Ignoring query to other database")
+- [CSS：ul设置为height：auto，高度仍为0](?file=001-出错解决手册（编程类）/00027-CSS：ul设置为height：auto，高度仍为0 "CSS：ul设置为height：auto，高度仍为0")
+- [CSS：两个inline-block的a标签之间有空隙](?file=001-出错解决手册（编程类）/00028-CSS：两个inline-block的a标签之间有空隙 "CSS：两个inline-block的a标签之间有空隙")
+- [外层div设置height：auto后高度为0](?file=001-出错解决手册（编程类）/00029-外层div设置height：auto后高度为0 "外层div设置height：auto后高度为0")
+- [strongswan在win10上能连接但无法访问](?file=001-出错解决手册（编程类）/00030-strongswan在win10上能连接但无法访问 "strongswan在win10上能连接但无法访问")
+- [易语言调试：启动欲调试程序失败，需要管理员权限](?file=001-出错解决手册（编程类）/00031-易语言调试：启动欲调试程序失败，需要管理员权限 "易语言调试：启动欲调试程序失败，需要管理员权限")
+- [按键精灵中文乱码，输入中文变成问号](?file=001-出错解决手册（编程类）/00032-按键精灵中文乱码，输入中文变成问号 "按键精灵中文乱码，输入中文变成问号")
+- [php7.0出现undefined function mb_convert_encoding&#40;&#41;](?file=001-出错解决手册（编程类）/00033-php7.0出现undefined function mb_convert_encoding&#40;&#41; "php7.0出现undefined function mb_convert_encoding&#40;&#41;")
+- [php7：date&#40;&#41;时间和当前时间不一致](?file=001-出错解决手册（编程类）/00034-php7：date&#40;&#41;时间和当前时间不一致 "php7：date&#40;&#41;时间和当前时间不一致")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
+- [游戏运行时提示MSVCR100.dll](?file=002-出错解决手册（其他）/00002-游戏运行时提示MSVCR100.dll "游戏运行时提示MSVCR100.dll")
