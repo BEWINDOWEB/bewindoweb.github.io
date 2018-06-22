@@ -46,3 +46,9 @@
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
 - [游戏运行时提示MSVCR100.dll](?file=002-出错解决手册（其他）/00002-游戏运行时提示MSVCR100.dll "游戏运行时提示MSVCR100.dll")
 - [AE在输出.H264格式的MP4时候出现-1610153453 ae error](?file=002-出错解决手册（其他）/00003-AE在输出.H264格式的MP4时候出现-1610153453 ae error "AE在输出.H264格式的MP4时候出现-1610153453 ae error")
+
+##### 一般文档翻译
+- **Google Code Prettify**
+    - [相关介绍](?file=003-一般文档翻译/00001-Google Code Prettify/001-相关介绍 "相关介绍")
+    - [英文原文](?file=003-一般文档翻译/00001-Google Code Prettify/002-英文原文 "英文原文")
+    - [汉语翻译](?file=003-一般文档翻译/00001-Google Code Prettify/003-汉语翻译 "汉语翻译")
