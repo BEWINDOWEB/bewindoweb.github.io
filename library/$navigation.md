@@ -42,6 +42,7 @@
 - [vmware：无法打开虚拟机，似乎正在被使用](?file=001-出错解决手册（编程类）/00038-vmware：无法打开虚拟机，似乎正在被使用 "vmware：无法打开虚拟机，似乎正在被使用")
 - [windows安装mysql5.6版本时，服务mysql56无法启动的问题](?file=001-出错解决手册（编程类）/00039-windows安装mysql5.6版本时，服务mysql56无法启动的问题 "windows安装mysql5.6版本时，服务mysql56无法启动的问题")
 - [VS编写C程序报错error C4146：一元负运算符应用于无符号类型，结果仍为无符号类](?file=001-出错解决手册（编程类）/00040-VS编写C程序报错error C4146：一元负运算符应用于无符号类型，结果仍为无符号类 "VS编写C程序报错error C4146：一元负运算符应用于无符号类型，结果仍为无符号类")
+- [amwiki报错：img.toPng is not a function](?file=001-出错解决手册（编程类）/00041-amwiki报错：img.toPng is not a function "amwiki报错：img.toPng is not a function")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
