@@ -212,6 +212,13 @@ line-height:2.0;
   margin: 10px auto;
   display:block;
 }
+.markdown-body table {
+  margin-left:auto;
+  margin-right:auto;
+  width:auto;
+  display:table;
+}
+
 .markdown-body pre code {
     font-size:14px;
 }

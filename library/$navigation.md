@@ -55,3 +55,19 @@
     - [相关介绍](?file=003-一般文档翻译/00001-Google Code Prettify/001-相关介绍 "相关介绍")
     - [英文原文](?file=003-一般文档翻译/00001-Google Code Prettify/002-英文原文 "英文原文")
     - [汉语翻译](?file=003-一般文档翻译/00001-Google Code Prettify/003-汉语翻译 "汉语翻译")
+- **SOCKS Protocol Version 5**
+    - [相关介绍](?file=003-一般文档翻译/00002-SOCKS Protocol Version 5/001-相关介绍 "相关介绍")
+    - [英文原文](?file=003-一般文档翻译/00002-SOCKS Protocol Version 5/002-英文原文 "英文原文")
+    - [汉语翻译](?file=003-一般文档翻译/00002-SOCKS Protocol Version 5/003-汉语翻译 "汉语翻译")
+
+##### Linux常用命令
+- **Debian 8**
+    - [Debian 8 Crontab相关命令](?file=004-Linux常用命令/001-Debian 8/00001-Debian 8 Crontab相关命令 "Debian 8 Crontab相关命令")
+- **Shell脚本**
+- **Emacs**
+- **Strongswan**
+    - [strongswan的ipsec.conf配置](?file=004-Linux常用命令/004-Strongswan/00001-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
+
+##### PHP常用命令
+- [PHP输出HTML纯文本而不让浏览器解析](?file=005-PHP常用命令/00001-PHP输出HTML纯文本而不让浏览器解析 "PHP输出HTML纯文本而不让浏览器解析")
+- [php7.0使用curl访问网页的经典代码](?file=005-PHP常用命令/00002-php7.0使用curl访问网页的经典代码 "php7.0使用curl访问网页的经典代码")
