@@ -63,15 +63,20 @@
 ##### Linux常用命令
 - **Debian 8**
     - [Debian 8 Crontab相关命令](?file=004-Linux常用命令/001-Debian 8/00001-Debian 8 Crontab相关命令 "Debian 8 Crontab相关命令")
+    - [查看debian版本号](?file=004-Linux常用命令/001-Debian 8/00002-查看debian版本号 "查看debian版本号")
 - **Shell脚本**
 - **Emacs**
 - **Strongswan**
     - [strongswan的ipsec.conf配置](?file=004-Linux常用命令/004-Strongswan/00001-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
 - **Markdown**
+- **mysql5.6**
+    - [查看是否启用日志](?file=004-Linux常用命令/006-mysql5.6/00001-查看是否启用日志 "查看是否启用日志")
+    - [mysql建表修改日常命令](?file=004-Linux常用命令/006-mysql5.6/00002-mysql建表修改日常命令 "mysql建表修改日常命令")
+    - [mysql显示相关信息](?file=004-Linux常用命令/006-mysql5.6/00003-mysql显示相关信息 "mysql显示相关信息")
 
-##### PHP常用命令
-- [PHP输出HTML纯文本而不让浏览器解析](?file=005-PHP常用命令/00001-PHP输出HTML纯文本而不让浏览器解析 "PHP输出HTML纯文本而不让浏览器解析")
-- [php7.0使用curl访问网页的经典代码](?file=005-PHP常用命令/00002-php7.0使用curl访问网页的经典代码 "php7.0使用curl访问网页的经典代码")
+##### PHP7.0常用命令
+- [PHP输出HTML纯文本而不让浏览器解析](?file=005-PHP7.0常用命令/00001-PHP输出HTML纯文本而不让浏览器解析 "PHP输出HTML纯文本而不让浏览器解析")
+- [php7.0使用curl访问网页的经典代码](?file=005-PHP7.0常用命令/00002-php7.0使用curl访问网页的经典代码 "php7.0使用curl访问网页的经典代码")
 
 ##### Matlab常用命令
 - [修改默认打开路径](?file=006-Matlab常用命令/00001-修改默认打开路径 "修改默认打开路径")
@@ -86,3 +91,13 @@
 
 ##### 智熄的兴趣
 - [易经八卦](?file=010-智熄的兴趣/00001-易经八卦 "易经八卦")
+
+##### 游戏攻略
+- **QQ宠物**
+    - [QQ宠物旅游点亮全地图攻略](?file=011-游戏攻略/001-QQ宠物/00001-QQ宠物旅游点亮全地图攻略 "QQ宠物旅游点亮全地图攻略")
+    - [QQ宠物：免费获得物品的活动](?file=011-游戏攻略/001-QQ宠物/00002-QQ宠物：免费获得物品的活动 "QQ宠物：免费获得物品的活动")
+    - [QQ宠物：藏宝图攻略](?file=011-游戏攻略/001-QQ宠物/00003-QQ宠物：藏宝图攻略 "QQ宠物：藏宝图攻略")
+    - [QQ宠物：豆豆菲书包袋四图物品位置](?file=011-游戏攻略/001-QQ宠物/00004-QQ宠物：豆豆菲书包袋四图物品位置 "QQ宠物：豆豆菲书包袋四图物品位置")
+
+##### OJ刷题狂魔
+- **LeetCode**
