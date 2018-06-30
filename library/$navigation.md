@@ -67,7 +67,20 @@
 - **Emacs**
 - **Strongswan**
     - [strongswan的ipsec.conf配置](?file=004-Linux常用命令/004-Strongswan/00001-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
+- **Markdown**
 
 ##### PHP常用命令
 - [PHP输出HTML纯文本而不让浏览器解析](?file=005-PHP常用命令/00001-PHP输出HTML纯文本而不让浏览器解析 "PHP输出HTML纯文本而不让浏览器解析")
 - [php7.0使用curl访问网页的经典代码](?file=005-PHP常用命令/00002-php7.0使用curl访问网页的经典代码 "php7.0使用curl访问网页的经典代码")
+
+##### Matlab常用命令
+- [修改默认打开路径](?file=006-Matlab常用命令/00001-修改默认打开路径 "修改默认打开路径")
+
+##### Windows常用命令
+- [关闭win8、win10下空闲时间自动维护](?file=007-Windows常用命令/00001-关闭win8、win10下空闲时间自动维护 "关闭win8、win10下空闲时间自动维护")
+
+##### 1010文档
+- [三国高级辅助_v1.0](?file=009-1010文档/00001-三国高级辅助_v1.0 "三国高级辅助_v1.0")
+
+##### 智熄的兴趣
+- [易经八卦](?file=010-智熄的兴趣/00001-易经八卦 "易经八卦")
