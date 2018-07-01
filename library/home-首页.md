@@ -15,7 +15,8 @@
 * 忘记matlab的常用语法了、忘记windows的快捷键了
 
 ### 联系我
-<font color="#478cdc"><i class="fa fa-globe"></i></font> [个人博客（记录好玩的编程经验）](http://www.bewindoweb.com) / <font color="#478cdc"><i class="fa fa-github"></i></font> [github（开源项目）](https://github.com/BEWINDOWEB) / <font color="#478cdc"><i class="fa fa-envelope"></i></font> [发送邮件](Mailto:bewindoweb1995@foxmail.com)
+<font color="#478cdc"><i class="fa fa-globe"></i></font> [个人博客（记录好玩的编程经验）](http://www.bewindoweb.com) / <font color="#478cdc"><i class="fa fa-github"></i></font> [github（开源项目）](https://github.com/BEWINDOWEB) / <font color="#478cdc"><i class="fa fa-envelope"></i></font> [发送邮件：bewindoweb1995@foxmail.com](Mailto:bewindoweb1995@foxmail.com)
 
 ### 关于wiki
-使用[amwiki](https://github.com/TevinLi/amWiki)基础框架搭建，托管于[github](https://wiki.bewindoweb.com/)，使用和分享权限为[BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)，开源赛高~
+* 使用TevinLi编写的[amwiki](https://github.com/TevinLi/amWiki)基础框架搭建，托管于[github](https://wiki.bewindoweb.com/)，使用和分享权限为[BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)，开源赛高~  
+* wiki更新速度较快，解决的问题有限，提供的方法也无法保证100%适用，如果你有更好的想法或者看到了我的错误，希望能邮件联系我，不胜感激。
