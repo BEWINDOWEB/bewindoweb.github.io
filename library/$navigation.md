@@ -46,6 +46,7 @@
 - [crontab自动备份mysql数据为0](?file=001-出错解决手册（编程类）/00042-crontab自动备份mysql数据为0 "crontab自动备份mysql数据为0")
 - [windows下github报错，unable to access xxxgithub.io.git](?file=001-出错解决手册（编程类）/00043-windows下github报错，unable to access xxxgithub.io.git "windows下github报错，unable to access xxxgithub.io.git")
 - [搬瓦工重置密码出错banwagonhost：992800002 VPS is currently running](?file=001-出错解决手册（编程类）/00044-搬瓦工重置密码出错banwagonhost：992800002 VPS is currently running "搬瓦工重置密码出错banwagonhost：992800002 VPS is currently running")
+- [extundelete提示找不到ext2fs库](?file=001-出错解决手册（编程类）/00045-extundelete提示找不到ext2fs库 "extundelete提示找不到ext2fs库")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
