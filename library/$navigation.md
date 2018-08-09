@@ -62,6 +62,10 @@
     - [相关介绍](?file=003-一般文档翻译/00002-SOCKS Protocol Version 5/001-相关介绍 "相关介绍")
     - [英文原文](?file=003-一般文档翻译/00002-SOCKS Protocol Version 5/002-英文原文 "英文原文")
     - [汉语翻译](?file=003-一般文档翻译/00002-SOCKS Protocol Version 5/003-汉语翻译 "汉语翻译")
+- **extundelete**
+    - [相关介绍](?file=003-一般文档翻译/00003-extundelete/001-相关介绍 "相关介绍")
+    - [英文原文](?file=003-一般文档翻译/00003-extundelete/002-英文原文 "英文原文")
+    - [汉语翻译](?file=003-一般文档翻译/00003-extundelete/003-汉语翻译 "汉语翻译")
 
 ##### Linux常用命令
 - **Debian 8**
