@@ -16,4 +16,8 @@ AttributeError: module 'urllib' has no attribute 'urlopen'
 ## <i class="fa fa-bullseye"></i> 根本原因
 python3已经改变了这个模块的路径
 ## <i class="fa fa-check-circle"></i> 解决方法
-把`urllib`改为`urllib.request`
+把`urllib`改为`urllib.request`，即：
+```python
+import urllib.request #import urllib
+urllib.request.urlopen(url) #urllib.urlopen(url)
+```
