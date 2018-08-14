@@ -49,6 +49,7 @@
 - [extundelete提示找不到ext2fs库](?file=001-出错解决手册（编程类）/00045-extundelete提示找不到ext2fs库 "extundelete提示找不到ext2fs库")
 - [python3报错：AttributeError： module &#39;urllib&#39; has no attribute &#39;urlopen&#39;](?file=001-出错解决手册（编程类）/00046-python3报错：AttributeError： module &#39;urllib&#39; has no attribute &#39;urlopen&#39; "python3报错：AttributeError： module &#39;urllib&#39; has no attribute &#39;urlopen&#39;")
 - [python爬取中文网页输出unicode乱码](?file=001-出错解决手册（编程类）/00047-python爬取中文网页输出unicode乱码 "python爬取中文网页输出unicode乱码")
+- [wireshark安装后找不到网卡](?file=001-出错解决手册（编程类）/00048-wireshark安装后找不到网卡 "wireshark安装后找不到网卡")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
