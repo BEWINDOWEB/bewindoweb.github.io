@@ -5,7 +5,7 @@
 ## <i class="fa fa-question-circle"></i> 出现问题
 wireshark安装完成后找不到网卡。
 ## <i class="fa fa-bullseye"></i> 根本原因
-winPcap没有安装好。
+winPcap没有安装好。  
 **在安装过程中，wireshark提示winPcap已经被安装过了，是否强制安装，我就选择了取消，但其实应该重新强制再装一遍。**
 ## <i class="fa fa-check-circle"></i> 解决方法
 【第一步】卸载wireshark  
