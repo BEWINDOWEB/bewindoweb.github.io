@@ -50,6 +50,10 @@
 - [python3报错：AttributeError： module &#39;urllib&#39; has no attribute &#39;urlopen&#39;](?file=001-出错解决手册（编程类）/00046-python3报错：AttributeError： module &#39;urllib&#39; has no attribute &#39;urlopen&#39; "python3报错：AttributeError： module &#39;urllib&#39; has no attribute &#39;urlopen&#39;")
 - [python爬取中文网页输出unicode乱码](?file=001-出错解决手册（编程类）/00047-python爬取中文网页输出unicode乱码 "python爬取中文网页输出unicode乱码")
 - [wireshark安装后找不到网卡](?file=001-出错解决手册（编程类）/00048-wireshark安装后找不到网卡 "wireshark安装后找不到网卡")
+- [makefile 2 missing separator. Stop](?file=001-出错解决手册（编程类）/00049-makefile 2 missing separator. Stop "makefile 2 missing separator. Stop")
+- [linux下用vi工具上下左右变ABCD](?file=001-出错解决手册（编程类）/00050-linux下用vi工具上下左右变ABCD "linux下用vi工具上下左右变ABCD")
+- [maven编译出错：No compiler is provided in this environment](?file=001-出错解决手册（编程类）/00051-maven编译出错：No compiler is provided in this environment "maven编译出错：No compiler is provided in this environment")
+- [AutoWired绑定的变量报空指针异常](?file=001-出错解决手册（编程类）/00052-AutoWired绑定的变量报空指针异常 "AutoWired绑定的变量报空指针异常")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
