@@ -59,6 +59,7 @@
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
 - [游戏运行时提示MSVCR100.dll](?file=002-出错解决手册（其他）/00002-游戏运行时提示MSVCR100.dll "游戏运行时提示MSVCR100.dll")
 - [AE在输出.H264格式的MP4时候出现-1610153453 ae error](?file=002-出错解决手册（其他）/00003-AE在输出.H264格式的MP4时候出现-1610153453 ae error "AE在输出.H264格式的MP4时候出现-1610153453 ae error")
+- [Chrome：该扩展程序未列在 Chrome 网上应用店中，并可能是在您不知情的情况下添加的](?file=002-出错解决手册（其他）/00004-Chrome：该扩展程序未列在 Chrome 网上应用店中，并可能是在您不知情的情况下添加的 "Chrome：该扩展程序未列在 Chrome 网上应用店中，并可能是在您不知情的情况下添加的")
 
 ##### 一般文档翻译
 - **Google Code Prettify**
@@ -78,6 +79,7 @@
 - **Debian 8**
     - [Debian 8 Crontab相关命令](?file=004-Linux常用命令/001-Debian 8/00001-Debian 8 Crontab相关命令 "Debian 8 Crontab相关命令")
     - [查看debian版本号](?file=004-Linux常用命令/001-Debian 8/00002-查看debian版本号 "查看debian版本号")
+    - [源](?file=004-Linux常用命令/001-Debian 8/00003-源 "源")
 - **Shell脚本**
 - **Emacs**
 - **Strongswan**
@@ -88,6 +90,8 @@
     - [mysql建表修改日常命令](?file=004-Linux常用命令/006-mysql5.6/00002-mysql建表修改日常命令 "mysql建表修改日常命令")
     - [mysql显示相关信息](?file=004-Linux常用命令/006-mysql5.6/00003-mysql显示相关信息 "mysql显示相关信息")
 - **Cmake**
+- **Lua**
+    - [Lua语法](?file=004-Linux常用命令/008-Lua/001-Lua语法 "Lua语法")
 
 ##### PHP7.0常用命令
 - [PHP输出HTML纯文本而不让浏览器解析](?file=005-PHP7.0常用命令/00001-PHP输出HTML纯文本而不让浏览器解析 "PHP输出HTML纯文本而不让浏览器解析")
@@ -124,3 +128,7 @@
 - **视频制作相关**
     - **绘声绘影教程**
         - [会声会影X5设置默认淡入淡出时间](?file=100-智熄的兴趣/004-视频制作相关/001-绘声绘影教程/00001-会声会影X5设置默认淡入淡出时间 "会声会影X5设置默认淡入淡出时间")
+- **钢琴**
+    - **琴谱**
+        - [潮鸣](?file=100-智熄的兴趣/005-钢琴/001-琴谱/00001-潮鸣 "潮鸣")
+    - **基础知识**
