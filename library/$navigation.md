@@ -80,16 +80,12 @@
     - [Debian 8 Crontab相关命令](?file=004-Linux常用命令/001-Debian 8/00001-Debian 8 Crontab相关命令 "Debian 8 Crontab相关命令")
     - [查看debian版本号](?file=004-Linux常用命令/001-Debian 8/00002-查看debian版本号 "查看debian版本号")
     - [源](?file=004-Linux常用命令/001-Debian 8/00003-源 "源")
-- **Shell脚本**
-- **Emacs**
 - **Strongswan**
     - [strongswan的ipsec.conf配置](?file=004-Linux常用命令/004-Strongswan/00001-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
-- **Markdown**
 - **mysql5.6**
     - [查看是否启用日志](?file=004-Linux常用命令/006-mysql5.6/00001-查看是否启用日志 "查看是否启用日志")
     - [mysql建表修改日常命令](?file=004-Linux常用命令/006-mysql5.6/00002-mysql建表修改日常命令 "mysql建表修改日常命令")
     - [mysql显示相关信息](?file=004-Linux常用命令/006-mysql5.6/00003-mysql显示相关信息 "mysql显示相关信息")
-- **Cmake**
 - **Lua**
     - [Lua语法](?file=004-Linux常用命令/008-Lua/001-Lua语法 "Lua语法")
 
@@ -107,9 +103,6 @@
 - [三国高级辅助_v1.0](?file=009-1010文档/00001-三国高级辅助_v1.0 "三国高级辅助_v1.0")
 - [三国基础辅助_v1.0](?file=009-1010文档/00002-三国基础辅助_v1.0 "三国基础辅助_v1.0")
 - [三国基址完整版](?file=009-1010文档/00003-三国基址完整版 "三国基址完整版")
-
-##### OJ刷题狂魔
-- **LeetCode**
 
 ##### 软件安装手册
 - [在VMWare14.1.2上安装debian 8.2](?file=013-软件安装手册/00001-在VMWare14.1.2上安装debian 8.2 "在VMWare14.1.2上安装debian 8.2")
@@ -131,4 +124,3 @@
 - **钢琴**
     - **琴谱**
         - [潮鸣](?file=100-智熄的兴趣/005-钢琴/001-琴谱/00001-潮鸣 "潮鸣")
-    - **基础知识**
