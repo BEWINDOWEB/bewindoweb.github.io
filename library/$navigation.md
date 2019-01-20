@@ -113,6 +113,8 @@
 
 ##### 软件安装手册
 - [在VMWare14.1.2上安装debian 8.2](?file=013-软件安装手册/00001-在VMWare14.1.2上安装debian 8.2 "在VMWare14.1.2上安装debian 8.2")
+- [Windows GVLK大全](?file=013-软件安装手册/00002-Windows GVLK大全 "Windows GVLK大全")
+- [Office GVLK大全](?file=013-软件安装手册/00003-Office GVLK大全 "Office GVLK大全")
 
 ##### 智熄的兴趣
 - **中国历史文化**
