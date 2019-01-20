@@ -54,6 +54,34 @@
 - [linux下用vi工具上下左右变ABCD](?file=001-出错解决手册（编程类）/00050-linux下用vi工具上下左右变ABCD "linux下用vi工具上下左右变ABCD")
 - [maven编译出错：No compiler is provided in this environment](?file=001-出错解决手册（编程类）/00051-maven编译出错：No compiler is provided in this environment "maven编译出错：No compiler is provided in this environment")
 - [AutoWired绑定的变量报空指针异常](?file=001-出错解决手册（编程类）/00052-AutoWired绑定的变量报空指针异常 "AutoWired绑定的变量报空指针异常")
+- [No compiler is provided in this environment](?file=001-出错解决手册（编程类）/00053-No compiler is provided in this environment "No compiler is provided in this environment")
+- [通配符的匹配很全面，但无法找到元素contextannotation-config](?file=001-出错解决手册（编程类）/00054-通配符的匹配很全面，但无法找到元素contextannotation-config "通配符的匹配很全面，但无法找到元素contextannotation-config")
+- [测试msyql连接时报错：找不到mysql驱动](?file=001-出错解决手册（编程类）/00055-测试msyql连接时报错：找不到mysql驱动 "测试msyql连接时报错：找不到mysql驱动")
+- [Configure configuration.configure&#40;&#41;：could not locate cfg.xml resources&#91;hibernate.cfg.xml&#93;](?file=001-出错解决手册（编程类）/00056-Configure configuration.configure&#40;&#41;：could not locate cfg.xml resources&#91;hibernate.cfg.xml&#93; "Configure configuration.configure&#40;&#41;：could not locate cfg.xml resources&#91;hibernate.cfg.xml&#93;")
+- [NoSuchMethodError persistenceIndex](?file=001-出错解决手册（编程类）/00057-NoSuchMethodError persistenceIndex "NoSuchMethodError persistenceIndex")
+- [jsp页面中使用EL表达式获取不到值，仍然显示为 ${xxxx}](?file=001-出错解决手册（编程类）/00058-jsp页面中使用EL表达式获取不到值，仍然显示为 ${xxxx} "jsp页面中使用EL表达式获取不到值，仍然显示为 ${xxxx}")
+- [首页不访问controller，直接访问的没有数据的index.jsp](?file=001-出错解决手册（编程类）/00059-首页不访问controller，直接访问的没有数据的index.jsp "首页不访问controller，直接访问的没有数据的index.jsp")
+- [controller调用@Autowired注入的service报空指针异常，没有初始化](?file=001-出错解决手册（编程类）/00060-controller调用@Autowired注入的service报空指针异常，没有初始化 "controller调用@Autowired注入的service报空指针异常，没有初始化")
+- [通配符的匹配很全面但无法找到元素txannotation-driven的声明](?file=001-出错解决手册（编程类）/00061-通配符的匹配很全面但无法找到元素txannotation-driven的声明 "通配符的匹配很全面但无法找到元素txannotation-driven的声明")
+- [java.lang.NoClassDefFoundErrororg.springframework.core.MethodClassKey](?file=001-出错解决手册（编程类）/00062-java.lang.NoClassDefFoundErrororg.springframework.core.MethodClassKey "java.lang.NoClassDefFoundErrororg.springframework.core.MethodClassKey")
+- [java.lang.NoSuchMethodError org.hibernate.Session.getFlushMode&#40;&#41;Lorg hibernate FlushMode](?file=001-出错解决手册（编程类）/00063-java.lang.NoSuchMethodError org.hibernate.Session.getFlushMode&#40;&#41;Lorg hibernate FlushMode "java.lang.NoSuchMethodError org.hibernate.Session.getFlushMode&#40;&#41;Lorg hibernate FlushMode")
+- [org.springframework.http.converter.HttpMessageNotReadableException Required request body is missing public java.lang.String](?file=001-出错解决手册（编程类）/00064-org.springframework.http.converter.HttpMessageNotReadableException Required request body is missing public java.lang.String "org.springframework.http.converter.HttpMessageNotReadableException Required request body is missing public java.lang.String")
+- [提交ajax的post请求提示：HTTP 415](?file=001-出错解决手册（编程类）/00065-提交ajax的post请求提示：HTTP 415 "提交ajax的post请求提示：HTTP 415")
+- [Could not read document：Unrecognized token id：was expecting &#40;true, false or null&#41;](?file=001-出错解决手册（编程类）/00066-Could not read document：Unrecognized token id：was expecting &#40;true, false or null&#41; "Could not read document：Unrecognized token id：was expecting &#40;true, false or null&#41;")
+- [Caused by：java.lang.NullPointerException：redissonYamlUrl](?file=001-出错解决手册（编程类）/00067-Caused by：java.lang.NullPointerException：redissonYamlUrl "Caused by：java.lang.NullPointerException：redissonYamlUrl")
+- [redis作为hibernate二级缓存出错：SharedSessionContractImplementor](?file=001-出错解决手册（编程类）/00068-redis作为hibernate二级缓存出错：SharedSessionContractImplementor "redis作为hibernate二级缓存出错：SharedSessionContractImplementor")
+- [Spring-security 报错：NoClassDefFoundError](?file=001-出错解决手册（编程类）/00069-Spring-security 报错：NoClassDefFoundError "Spring-security 报错：NoClassDefFoundError")
+- [Spring-security：始终使用默认的SimpleUrlAuthenticationFailureHandler而不是自定义的](?file=001-出错解决手册（编程类）/00070-Spring-security：始终使用默认的SimpleUrlAuthenticationFailureHandler而不是自定义的 "Spring-security：始终使用默认的SimpleUrlAuthenticationFailureHandler而不是自定义的")
+- [Hibernate查询报错：SmdUserEntity is not mapped](?file=001-出错解决手册（编程类）/00071-Hibernate查询报错：SmdUserEntity is not mapped "Hibernate查询报错：SmdUserEntity is not mapped")
+- [Hibernate查询报错：Table &#39;smdtest.smd_user&#39; doesn&#39;t exist](?file=001-出错解决手册（编程类）/00072-Hibernate查询报错：Table &#39;smdtest.smd_user&#39; doesn&#39;t exist "Hibernate查询报错：Table &#39;smdtest.smd_user&#39; doesn&#39;t exist")
+- [Hibernate插入报错：Batch update returned unexpected row count from update 0 actual row count：0 expected：1](?file=001-出错解决手册（编程类）/00073-Hibernate插入报错：Batch update returned unexpected row count from update 0 actual row count：0 expected：1 "Hibernate插入报错：Batch update returned unexpected row count from update 0 actual row count：0 expected：1")
+- [使用mysql函数concat_ws报错：No data type for node：tree.MethodNode ](?file=001-出错解决手册（编程类）/00074-使用mysql函数concat_ws报错：No data type for node：tree.MethodNode  "使用mysql函数concat_ws报错：No data type for node：tree.MethodNode ")
+- [hibernate同时使用问号参和名字数组参插入的数据顺序出现混乱](?file=001-出错解决手册（编程类）/00075-hibernate同时使用问号参和名字数组参插入的数据顺序出现混乱 "hibernate同时使用问号参和名字数组参插入的数据顺序出现混乱")
+- [转换到model时报错：java.lang.Integer cannot be cast to java.lang.Byte](?file=001-出错解决手册（编程类）/00076-转换到model时报错：java.lang.Integer cannot be cast to java.lang.Byte "转换到model时报错：java.lang.Integer cannot be cast to java.lang.Byte")
+- [转换到model时报错：java.lang.Integer cannot be cast to java.lang.Byte](?file=001-出错解决手册（编程类）/00077-转换到model时报错：java.lang.Integer cannot be cast to java.lang.Byte "转换到model时报错：java.lang.Integer cannot be cast to java.lang.Byte")
+- [编写basedao的时候报错：java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType](?file=001-出错解决手册（编程类）/00078-编写basedao的时候报错：java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType "编写basedao的时候报错：java.lang.Class cannot be cast to java.lang.reflect.ParameterizedType")
+- [Tomcat启动时报错Artifact staff_management_dev：war exploded： Error during artifact deployment](?file=001-出错解决手册（编程类）/00079-Tomcat启动时报错Artifact staff_management_dev：war exploded： Error during artifact deployment "Tomcat启动时报错Artifact staff_management_dev：war exploded： Error during artifact deployment")
+- [ant design pro @antv data-set DataSet undefined](?file=001-出错解决手册（编程类）/00080-ant design pro @antv data-set DataSet undefined "ant design pro @antv data-set DataSet undefined")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
@@ -80,16 +108,12 @@
     - [Debian 8 Crontab相关命令](?file=004-Linux常用命令/001-Debian 8/00001-Debian 8 Crontab相关命令 "Debian 8 Crontab相关命令")
     - [查看debian版本号](?file=004-Linux常用命令/001-Debian 8/00002-查看debian版本号 "查看debian版本号")
     - [源](?file=004-Linux常用命令/001-Debian 8/00003-源 "源")
-- **Shell脚本**
-- **Emacs**
 - **Strongswan**
     - [strongswan的ipsec.conf配置](?file=004-Linux常用命令/004-Strongswan/00001-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
-- **Markdown**
 - **mysql5.6**
     - [查看是否启用日志](?file=004-Linux常用命令/006-mysql5.6/00001-查看是否启用日志 "查看是否启用日志")
     - [mysql建表修改日常命令](?file=004-Linux常用命令/006-mysql5.6/00002-mysql建表修改日常命令 "mysql建表修改日常命令")
     - [mysql显示相关信息](?file=004-Linux常用命令/006-mysql5.6/00003-mysql显示相关信息 "mysql显示相关信息")
-- **Cmake**
 - **Lua**
     - [Lua语法](?file=004-Linux常用命令/008-Lua/001-Lua语法 "Lua语法")
 
@@ -107,9 +131,6 @@
 - [三国高级辅助_v1.0](?file=009-1010文档/00001-三国高级辅助_v1.0 "三国高级辅助_v1.0")
 - [三国基础辅助_v1.0](?file=009-1010文档/00002-三国基础辅助_v1.0 "三国基础辅助_v1.0")
 - [三国基址完整版](?file=009-1010文档/00003-三国基址完整版 "三国基址完整版")
-
-##### OJ刷题狂魔
-- **LeetCode**
 
 ##### 软件安装手册
 - [在VMWare14.1.2上安装debian 8.2](?file=013-软件安装手册/00001-在VMWare14.1.2上安装debian 8.2 "在VMWare14.1.2上安装debian 8.2")
@@ -133,4 +154,3 @@
 - **钢琴**
     - **琴谱**
         - [潮鸣](?file=100-智熄的兴趣/005-钢琴/001-琴谱/00001-潮鸣 "潮鸣")
-    - **基础知识**

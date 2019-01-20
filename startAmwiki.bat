@@ -1,0 +1,2 @@
+amwiki -s
+pause
