@@ -139,6 +139,7 @@
 ##### OJ刷题狂魔
 - **LeetCode**
     - [TwoSum](?file=012-OJ刷题狂魔/001-LeetCode/00001-TwoSum "TwoSum")
+    - [AddTwoNumbers](?file=012-OJ刷题狂魔/001-LeetCode/00002-AddTwoNumbers "AddTwoNumbers")
 
 ##### 软件安装手册
 - [在VMWare14.1.2上安装debian 8.2](?file=013-软件安装手册/00001-在VMWare14.1.2上安装debian 8.2 "在VMWare14.1.2上安装debian 8.2")
