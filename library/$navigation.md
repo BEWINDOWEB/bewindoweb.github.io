@@ -142,6 +142,9 @@
     - [AddTwoNumbers](?file=012-OJ刷题狂魔/001-LeetCode/00002-AddTwoNumbers "AddTwoNumbers")
     - [LongestSubstringWithoutRepeatingCharacters](?file=012-OJ刷题狂魔/001-LeetCode/00003-LongestSubstringWithoutRepeatingCharacters "LongestSubstringWithoutRepeatingCharacters")
     - [MedianOfTwoSortedArrays](?file=012-OJ刷题狂魔/001-LeetCode/00004-MedianOfTwoSortedArrays "MedianOfTwoSortedArrays")
+    - [LongestPalindromicSubstring](?file=012-OJ刷题狂魔/001-LeetCode/00005-LongestPalindromicSubstring "LongestPalindromicSubstring")
+    - [ZigzagConversion](?file=012-OJ刷题狂魔/001-LeetCode/00006-ZigzagConversion "ZigzagConversion")
+    - [ReverseInteger](?file=012-OJ刷题狂魔/001-LeetCode/00007-ReverseInteger "ReverseInteger")
 
 ##### 软件安装手册
 - [在VMWare14.1.2上安装debian 8.2](?file=013-软件安装手册/00001-在VMWare14.1.2上安装debian 8.2 "在VMWare14.1.2上安装debian 8.2")

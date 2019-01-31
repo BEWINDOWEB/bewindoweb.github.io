@@ -1,4 +1,4 @@
-# MedianOfTwoSortedArrays
+# MedianOfTwoSortedArrays - 寻找两个有序数组的中位数
 ### 题目描述
 给定两个大小为 m 和 n 的有序数组 nums1 和 nums2。  
 请你找出这两个有序数组的中位数，并且要求算法的时间复杂度为 O(log(m + n))。  
@@ -18,7 +18,7 @@ nums2 = [3, 4]
 
 
 ### 第一次想到的解法
-暴力破解
+主要是考虑下用完的情况
 ```Java
 class Solution {
     private int p = 0, q = 0;
