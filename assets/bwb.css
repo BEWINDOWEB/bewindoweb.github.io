@@ -53,7 +53,7 @@ a{
   color:#478cdc;
 }
 .menubar h4, .menubar h5 {
-  border:none;
+  border:1px solid #FFFFFF;
 }
 .menu-search{
   border-left:none;

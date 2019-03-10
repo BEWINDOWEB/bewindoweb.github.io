@@ -88,6 +88,7 @@
 - [游戏运行时提示MSVCR100.dll](?file=002-出错解决手册（其他）/00002-游戏运行时提示MSVCR100.dll "游戏运行时提示MSVCR100.dll")
 - [AE在输出.H264格式的MP4时候出现-1610153453 ae error](?file=002-出错解决手册（其他）/00003-AE在输出.H264格式的MP4时候出现-1610153453 ae error "AE在输出.H264格式的MP4时候出现-1610153453 ae error")
 - [Chrome：该扩展程序未列在 Chrome 网上应用店中，并可能是在您不知情的情况下添加的](?file=002-出错解决手册（其他）/00004-Chrome：该扩展程序未列在 Chrome 网上应用店中，并可能是在您不知情的情况下添加的 "Chrome：该扩展程序未列在 Chrome 网上应用店中，并可能是在您不知情的情况下添加的")
+- [安装cool edit后提示没有找到混合器程序&#91;sndvol32 r&#93;](?file=002-出错解决手册（其他）/00005-安装cool edit后提示没有找到混合器程序&#91;sndvol32 r&#93; "安装cool edit后提示没有找到混合器程序&#91;sndvol32 r&#93;")
 
 ##### 一般文档翻译
 - **Google Code Prettify**
@@ -103,33 +104,36 @@
     - [英文原文](?file=003-一般文档翻译/00003-extundelete/002-英文原文 "英文原文")
     - [汉语翻译](?file=003-一般文档翻译/00003-extundelete/003-汉语翻译 "汉语翻译")
 
-##### Linux常用命令
-- **Debian 8**
-    - [Debian 8 Crontab相关命令](?file=004-Linux常用命令/001-Debian 8/00001-Debian 8 Crontab相关命令 "Debian 8 Crontab相关命令")
-    - [查看debian版本号](?file=004-Linux常用命令/001-Debian 8/00002-查看debian版本号 "查看debian版本号")
-    - [源](?file=004-Linux常用命令/001-Debian 8/00003-源 "源")
+##### 常用命令
+- **Linux：Debian 8**
+    - [Debian 8 Crontab相关命令](?file=005-常用命令/001-Linux：Debian 8/00001-Debian 8 Crontab相关命令 "Debian 8 Crontab相关命令")
+    - [查看debian版本号](?file=005-常用命令/001-Linux：Debian 8/00002-查看debian版本号 "查看debian版本号")
+    - [源](?file=005-常用命令/001-Linux：Debian 8/00003-源 "源")
 - **Shell脚本**
 - **Emacs**
 - **Strongswan**
-    - [strongswan的ipsec.conf配置](?file=004-Linux常用命令/004-Strongswan/00001-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
+    - [strongswan的ipsec.conf配置](?file=005-常用命令/004-Strongswan/00001-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
+- **PHP7.0常用命令**
+    - [PHP输出HTML纯文本而不让浏览器解析](?file=005-常用命令/005-PHP7.0常用命令/00001-PHP输出HTML纯文本而不让浏览器解析 "PHP输出HTML纯文本而不让浏览器解析")
+    - [php7.0使用curl访问网页的经典代码](?file=005-常用命令/005-PHP7.0常用命令/00002-php7.0使用curl访问网页的经典代码 "php7.0使用curl访问网页的经典代码")
+- **Matlab常用命令**
+    - [修改默认打开路径](?file=005-常用命令/006-Matlab常用命令/00001-修改默认打开路径 "修改默认打开路径")
+- **Windows常用命令**
+    - [关闭win8、win10下空闲时间自动维护](?file=005-常用命令/007-Windows常用命令/00001-关闭win8、win10下空闲时间自动维护 "关闭win8、win10下空闲时间自动维护")
 - **Markdown**
 - **mysql5.6**
-    - [查看是否启用日志](?file=004-Linux常用命令/006-mysql5.6/00001-查看是否启用日志 "查看是否启用日志")
-    - [mysql建表修改日常命令](?file=004-Linux常用命令/006-mysql5.6/00002-mysql建表修改日常命令 "mysql建表修改日常命令")
-    - [mysql显示相关信息](?file=004-Linux常用命令/006-mysql5.6/00003-mysql显示相关信息 "mysql显示相关信息")
+    - [查看是否启用日志](?file=005-常用命令/009-mysql5.6/00001-查看是否启用日志 "查看是否启用日志")
+    - [mysql建表修改日常命令](?file=005-常用命令/009-mysql5.6/00002-mysql建表修改日常命令 "mysql建表修改日常命令")
+    - [mysql显示相关信息](?file=005-常用命令/009-mysql5.6/00003-mysql显示相关信息 "mysql显示相关信息")
 - **Cmake**
 - **Lua**
-    - [Lua语法](?file=004-Linux常用命令/008-Lua/001-Lua语法 "Lua语法")
-
-##### PHP7.0常用命令
-- [PHP输出HTML纯文本而不让浏览器解析](?file=005-PHP7.0常用命令/00001-PHP输出HTML纯文本而不让浏览器解析 "PHP输出HTML纯文本而不让浏览器解析")
-- [php7.0使用curl访问网页的经典代码](?file=005-PHP7.0常用命令/00002-php7.0使用curl访问网页的经典代码 "php7.0使用curl访问网页的经典代码")
-
-##### Matlab常用命令
-- [修改默认打开路径](?file=006-Matlab常用命令/00001-修改默认打开路径 "修改默认打开路径")
-
-##### Windows常用命令
-- [关闭win8、win10下空闲时间自动维护](?file=007-Windows常用命令/00001-关闭win8、win10下空闲时间自动维护 "关闭win8、win10下空闲时间自动维护")
+    - [Lua语法](?file=005-常用命令/011-Lua/00001-Lua语法 "Lua语法")
+- **Kafka**
+- **Docker**
+    - [命令](?file=005-常用命令/013-Docker/00001-命令 "命令")
+- **docker-compose.yml常用文件**
+    - [kafka](?file=005-常用命令/014-docker-compose.yml常用文件/00001-kafka "kafka")
+    - [redis](?file=005-常用命令/014-docker-compose.yml常用文件/00002-redis "redis")
 
 ##### 1010文档
 - [三国高级辅助_v1.0](?file=009-1010文档/00001-三国高级辅助_v1.0 "三国高级辅助_v1.0")
