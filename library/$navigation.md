@@ -109,8 +109,6 @@
     - [Debian 8 Crontab相关命令](?file=005-常用命令/001-Linux：Debian 8/00001-Debian 8 Crontab相关命令 "Debian 8 Crontab相关命令")
     - [查看debian版本号](?file=005-常用命令/001-Linux：Debian 8/00002-查看debian版本号 "查看debian版本号")
     - [源](?file=005-常用命令/001-Linux：Debian 8/00003-源 "源")
-- **Shell脚本**
-- **Emacs**
 - **Strongswan**
     - [strongswan的ipsec.conf配置](?file=005-常用命令/004-Strongswan/00001-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
 - **PHP7.0常用命令**
@@ -120,15 +118,12 @@
     - [修改默认打开路径](?file=005-常用命令/006-Matlab常用命令/00001-修改默认打开路径 "修改默认打开路径")
 - **Windows常用命令**
     - [关闭win8、win10下空闲时间自动维护](?file=005-常用命令/007-Windows常用命令/00001-关闭win8、win10下空闲时间自动维护 "关闭win8、win10下空闲时间自动维护")
-- **Markdown**
 - **mysql5.6**
     - [查看是否启用日志](?file=005-常用命令/009-mysql5.6/00001-查看是否启用日志 "查看是否启用日志")
     - [mysql建表修改日常命令](?file=005-常用命令/009-mysql5.6/00002-mysql建表修改日常命令 "mysql建表修改日常命令")
     - [mysql显示相关信息](?file=005-常用命令/009-mysql5.6/00003-mysql显示相关信息 "mysql显示相关信息")
-- **Cmake**
 - **Lua**
     - [Lua语法](?file=005-常用命令/011-Lua/00001-Lua语法 "Lua语法")
-- **Kafka**
 - **Docker**
     - [命令](?file=005-常用命令/013-Docker/00001-命令 "命令")
 - **docker-compose.yml常用文件**
@@ -172,4 +167,3 @@
 - **钢琴**
     - **琴谱**
         - [潮鸣](?file=100-智熄的兴趣/005-钢琴/001-琴谱/00001-潮鸣 "潮鸣")
-    - **基础知识**
