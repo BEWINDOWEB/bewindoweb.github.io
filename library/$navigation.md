@@ -109,8 +109,6 @@
     - [Debian 8 Crontab相关命令](?file=005-常用命令/001-Linux：Debian 8/00001-Debian 8 Crontab相关命令 "Debian 8 Crontab相关命令")
     - [查看debian版本号](?file=005-常用命令/001-Linux：Debian 8/00002-查看debian版本号 "查看debian版本号")
     - [源](?file=005-常用命令/001-Linux：Debian 8/00003-源 "源")
-- **Shell脚本**
-- **Emacs**
 - **Strongswan**
     - [strongswan的ipsec.conf配置](?file=005-常用命令/004-Strongswan/00001-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
 - **PHP7.0常用命令**
@@ -120,15 +118,12 @@
     - [修改默认打开路径](?file=005-常用命令/006-Matlab常用命令/00001-修改默认打开路径 "修改默认打开路径")
 - **Windows常用命令**
     - [关闭win8、win10下空闲时间自动维护](?file=005-常用命令/007-Windows常用命令/00001-关闭win8、win10下空闲时间自动维护 "关闭win8、win10下空闲时间自动维护")
-- **Markdown**
 - **mysql5.6**
     - [查看是否启用日志](?file=005-常用命令/009-mysql5.6/00001-查看是否启用日志 "查看是否启用日志")
     - [mysql建表修改日常命令](?file=005-常用命令/009-mysql5.6/00002-mysql建表修改日常命令 "mysql建表修改日常命令")
     - [mysql显示相关信息](?file=005-常用命令/009-mysql5.6/00003-mysql显示相关信息 "mysql显示相关信息")
-- **Cmake**
 - **Lua**
     - [Lua语法](?file=005-常用命令/011-Lua/00001-Lua语法 "Lua语法")
-- **Kafka**
 - **Docker**
     - [命令](?file=005-常用命令/013-Docker/00001-命令 "命令")
 - **docker-compose.yml常用文件**
@@ -154,6 +149,7 @@
 - [在VMWare14.1.2上安装debian 8.2](?file=013-软件安装手册/00001-在VMWare14.1.2上安装debian 8.2 "在VMWare14.1.2上安装debian 8.2")
 - [Windows GVLK大全](?file=013-软件安装手册/00002-Windows GVLK大全 "Windows GVLK大全")
 - [Office GVLK大全](?file=013-软件安装手册/00003-Office GVLK大全 "Office GVLK大全")
+- [Erlang+Windows+IDEA IDE环境搭建](?file=013-软件安装手册/00004-Erlang+Windows+IDEA IDE环境搭建 "Erlang+Windows+IDEA IDE环境搭建")
 
 ##### 智熄的兴趣
 - **中国历史文化**
@@ -172,4 +168,9 @@
 - **钢琴**
     - **琴谱**
         - [潮鸣](?file=100-智熄的兴趣/005-钢琴/001-琴谱/00001-潮鸣 "潮鸣")
+<<<<<<< HEAD
     - **基础知识**
+    - **工具**
+        - [将电钢琴声音导入电脑](?file=100-智熄的兴趣/005-钢琴/003-工具/00001-将电钢琴声音导入电脑 "将电钢琴声音导入电脑")
+=======
+>>>>>>> e4e7e6e90a17bd6031ced55606c4c27f224a9e23
