@@ -155,7 +155,10 @@
 - **下载资源、破解程序**
     - [Windows GVLK大全](?file=013-软件安装手册/002-下载资源、破解程序/00002-Windows GVLK大全 "Windows GVLK大全")
     - [Office GVLK大全](?file=013-软件安装手册/002-下载资源、破解程序/00003-Office GVLK大全 "Office GVLK大全")
-    - [Office下载和激活码](?file=013-软件安装手册/002-下载资源、破解程序/00005-Office下载和激活码 "Office下载和激活码")
+    - [Office下载和激活码](?file=013-软件安装手册/002-下载资源、破解程序/00004-Office下载和激活码 "Office下载和激活码")
+    - [StarUML3.x破解](?file=013-软件安装手册/002-下载资源、破解程序/00005-StarUML3.x破解 "StarUML3.x破解")
+    - [VMware激活码](?file=013-软件安装手册/002-下载资源、破解程序/00006-VMware激活码 "VMware激活码")
+    - [Xftp-Xshell破解](?file=013-软件安装手册/002-下载资源、破解程序/00007-Xftp-Xshell破解 "Xftp-Xshell破解")
 
 ##### 智熄的兴趣
 - **中国历史文化**
