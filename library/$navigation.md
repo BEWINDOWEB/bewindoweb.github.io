@@ -151,7 +151,9 @@
 ##### 软件安装手册
 - **搭建教程**
     - [在VMWare14.1.2上安装debian 8.2](?file=013-软件安装手册/001-搭建教程/00001-在VMWare14.1.2上安装debian 8.2 "在VMWare14.1.2上安装debian 8.2")
+    - [设置maven仓库和镜像](?file=013-软件安装手册/001-搭建教程/00002-设置maven仓库和镜像 "设置maven仓库和镜像")
     - [Erlang+Windows+IDEA IDE环境搭建](?file=013-软件安装手册/001-搭建教程/00004-Erlang+Windows+IDEA IDE环境搭建 "Erlang+Windows+IDEA IDE环境搭建")
+    - [重装系统要做的事情](?file=013-软件安装手册/001-搭建教程/00005-重装系统要做的事情 "重装系统要做的事情")
 - **下载资源、破解程序**
     - [Windows GVLK大全](?file=013-软件安装手册/002-下载资源、破解程序/00002-Windows GVLK大全 "Windows GVLK大全")
     - [Office GVLK大全](?file=013-软件安装手册/002-下载资源、破解程序/00003-Office GVLK大全 "Office GVLK大全")
@@ -159,6 +161,8 @@
     - [StarUML3.x破解](?file=013-软件安装手册/002-下载资源、破解程序/00005-StarUML3.x破解 "StarUML3.x破解")
     - [VMware激活码](?file=013-软件安装手册/002-下载资源、破解程序/00006-VMware激活码 "VMware激活码")
     - [Xftp-Xshell破解](?file=013-软件安装手册/002-下载资源、破解程序/00007-Xftp-Xshell破解 "Xftp-Xshell破解")
+    - [小米笔记本驱动下载](?file=013-软件安装手册/002-下载资源、破解程序/00008-小米笔记本驱动下载 "小米笔记本驱动下载")
+    - [FastStone Capture破解码](?file=013-软件安装手册/002-下载资源、破解程序/00009-FastStone Capture破解码 "FastStone Capture破解码")
 
 ##### 智熄的兴趣
 - **中国历史文化**
