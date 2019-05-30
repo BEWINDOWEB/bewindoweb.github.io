@@ -85,6 +85,7 @@
 - [Atom打开时提示Cannot load the system dictionary for zh-CN](?file=001-出错解决手册（编程类）/00081-Atom打开时提示Cannot load the system dictionary for zh-CN "Atom打开时提示Cannot load the system dictionary for zh-CN")
 - [@Slf4j注解正确log仍然报错](?file=001-出错解决手册（编程类）/00082-@Slf4j注解正确log仍然报错 "@Slf4j注解正确log仍然报错")
 - [SSH登陆时提示：enter passphrase for key](?file=001-出错解决手册（编程类）/00083-SSH登陆时提示：enter passphrase for key "SSH登陆时提示：enter passphrase for key")
+- [Xftp拖拽提示无法从外部拖放Xftp](?file=001-出错解决手册（编程类）/00084-Xftp拖拽提示无法从外部拖放Xftp "Xftp拖拽提示无法从外部拖放Xftp")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
@@ -155,6 +156,7 @@
     - [Erlang+Windows+IDEA IDE环境搭建](?file=013-软件安装手册/001-搭建教程/00004-Erlang+Windows+IDEA IDE环境搭建 "Erlang+Windows+IDEA IDE环境搭建")
     - [重装系统要做的事情](?file=013-软件安装手册/001-搭建教程/00005-重装系统要做的事情 "重装系统要做的事情")
 - **下载资源、破解程序**
+    - [免责声明](?file=013-软件安装手册/002-下载资源、破解程序/00001-免责声明 "免责声明")
     - [Windows GVLK大全](?file=013-软件安装手册/002-下载资源、破解程序/00002-Windows GVLK大全 "Windows GVLK大全")
     - [Office GVLK大全](?file=013-软件安装手册/002-下载资源、破解程序/00003-Office GVLK大全 "Office GVLK大全")
     - [Office下载和激活码](?file=013-软件安装手册/002-下载资源、破解程序/00004-Office下载和激活码 "Office下载和激活码")
@@ -163,6 +165,7 @@
     - [Xftp-Xshell破解](?file=013-软件安装手册/002-下载资源、破解程序/00007-Xftp-Xshell破解 "Xftp-Xshell破解")
     - [小米笔记本驱动下载](?file=013-软件安装手册/002-下载资源、破解程序/00008-小米笔记本驱动下载 "小米笔记本驱动下载")
     - [FastStone Capture破解码](?file=013-软件安装手册/002-下载资源、破解程序/00009-FastStone Capture破解码 "FastStone Capture破解码")
+    - [Adobe下载和破解](?file=013-软件安装手册/002-下载资源、破解程序/00010-Adobe下载和破解 "Adobe下载和破解")
 
 ##### 智熄的兴趣
 - **中国历史文化**
