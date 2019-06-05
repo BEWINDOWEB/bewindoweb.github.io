@@ -86,6 +86,7 @@
 - [@Slf4j注解正确log仍然报错](?file=001-出错解决手册（编程类）/00082-@Slf4j注解正确log仍然报错 "@Slf4j注解正确log仍然报错")
 - [SSH登陆时提示：enter passphrase for key](?file=001-出错解决手册（编程类）/00083-SSH登陆时提示：enter passphrase for key "SSH登陆时提示：enter passphrase for key")
 - [Xftp拖拽提示无法从外部拖放Xftp](?file=001-出错解决手册（编程类）/00084-Xftp拖拽提示无法从外部拖放Xftp "Xftp拖拽提示无法从外部拖放Xftp")
+- [markdown表格竖线无法转义](?file=001-出错解决手册（编程类）/00085-markdown表格竖线无法转义 "markdown表格竖线无法转义")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
@@ -129,7 +130,7 @@
 - **Lua**
     - [Lua语法](?file=005-常用命令/011-Lua/00001-Lua语法 "Lua语法")
 - **Docker**
-    - [命令](?file=005-常用命令/013-Docker/00001-命令 "命令")
+    - [Docker-CLI命令](?file=005-常用命令/013-Docker/00001-Docker-CLI命令 "Docker-CLI命令")
 - **docker-compose.yml常用文件**
     - [kafka](?file=005-常用命令/014-docker-compose.yml常用文件/00001-kafka "kafka")
     - [redis](?file=005-常用命令/014-docker-compose.yml常用文件/00002-redis "redis")
@@ -167,6 +168,10 @@
     - [FastStone Capture破解码](?file=013-软件安装手册/002-下载资源、破解程序/00009-FastStone Capture破解码 "FastStone Capture破解码")
     - [Adobe下载和破解](?file=013-软件安装手册/002-下载资源、破解程序/00010-Adobe下载和破解 "Adobe下载和破解")
     - [Java下载](?file=013-软件安装手册/002-下载资源、破解程序/00011-Java下载 "Java下载")
+    - [apt源](?file=013-软件安装手册/002-下载资源、破解程序/00012-apt源 "apt源")
+
+##### 表格数据收集
+- [Ubuntu版本代号](?file=014-表格数据收集/00001-Ubuntu版本代号 "Ubuntu版本代号")
 
 ##### 智熄的兴趣
 - **中国历史文化**
