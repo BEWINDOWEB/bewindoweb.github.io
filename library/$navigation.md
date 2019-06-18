@@ -110,12 +110,10 @@
     - [汉语翻译](?file=003-一般文档翻译/00003-extundelete/003-汉语翻译 "汉语翻译")
 
 ##### 常用命令
-- **Linux：Debian 8**
-    - [Debian 8 Crontab相关命令](?file=005-常用命令/001-Linux：Debian 8/00001-Debian 8 Crontab相关命令 "Debian 8 Crontab相关命令")
-    - [查看debian版本号](?file=005-常用命令/001-Linux：Debian 8/00002-查看debian版本号 "查看debian版本号")
-    - [源](?file=005-常用命令/001-Linux：Debian 8/00003-源 "源")
-- **Strongswan**
-    - [strongswan的ipsec.conf配置](?file=005-常用命令/004-Strongswan/00001-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
+- **Linux**
+    - [查看Linux系统信息](?file=005-常用命令/001-Linux/00001-查看Linux系统信息 "查看Linux系统信息")
+    - [Crontab定时任务设置](?file=005-常用命令/001-Linux/00002-Crontab定时任务设置 "Crontab定时任务设置")
+    - [系统参数监控命令](?file=005-常用命令/001-Linux/00003-系统参数监控命令 "系统参数监控命令")
 - **PHP7.0常用命令**
     - [PHP输出HTML纯文本而不让浏览器解析](?file=005-常用命令/005-PHP7.0常用命令/00001-PHP输出HTML纯文本而不让浏览器解析 "PHP输出HTML纯文本而不让浏览器解析")
     - [php7.0使用curl访问网页的经典代码](?file=005-常用命令/005-PHP7.0常用命令/00002-php7.0使用curl访问网页的经典代码 "php7.0使用curl访问网页的经典代码")
@@ -156,6 +154,7 @@
     - [设置maven仓库和镜像](?file=013-软件安装手册/001-搭建教程/00002-设置maven仓库和镜像 "设置maven仓库和镜像")
     - [Erlang+Windows+IDEA IDE环境搭建](?file=013-软件安装手册/001-搭建教程/00004-Erlang+Windows+IDEA IDE环境搭建 "Erlang+Windows+IDEA IDE环境搭建")
     - [重装系统要做的事情](?file=013-软件安装手册/001-搭建教程/00005-重装系统要做的事情 "重装系统要做的事情")
+    - [strongswan的ipsec.conf配置](?file=013-软件安装手册/001-搭建教程/00006-strongswan的ipsec.conf配置 "strongswan的ipsec.conf配置")
 - **下载资源、破解程序**
     - [免责声明](?file=013-软件安装手册/002-下载资源、破解程序/00001-免责声明 "免责声明")
     - [Windows GVLK大全](?file=013-软件安装手册/002-下载资源、破解程序/00002-Windows GVLK大全 "Windows GVLK大全")
