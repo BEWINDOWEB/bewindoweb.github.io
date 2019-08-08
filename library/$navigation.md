@@ -87,6 +87,8 @@
 - [SSH登陆时提示：enter passphrase for key](?file=001-出错解决手册（编程类）/00083-SSH登陆时提示：enter passphrase for key "SSH登陆时提示：enter passphrase for key")
 - [Xftp拖拽提示无法从外部拖放Xftp](?file=001-出错解决手册（编程类）/00084-Xftp拖拽提示无法从外部拖放Xftp "Xftp拖拽提示无法从外部拖放Xftp")
 - [markdown表格竖线无法转义](?file=001-出错解决手册（编程类）/00085-markdown表格竖线无法转义 "markdown表格竖线无法转义")
+- [Ubuntu不能自动适应Vmware窗口大小](?file=001-出错解决手册（编程类）/00086-Ubuntu不能自动适应Vmware窗口大小 "Ubuntu不能自动适应Vmware窗口大小")
+- [Docker拉取镜像报错](?file=001-出错解决手册（编程类）/00087-Docker拉取镜像报错 "Docker拉取镜像报错")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
