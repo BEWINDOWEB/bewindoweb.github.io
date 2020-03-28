@@ -89,6 +89,7 @@
 - [markdown表格竖线无法转义](?file=001-出错解决手册（编程类）/00085-markdown表格竖线无法转义 "markdown表格竖线无法转义")
 - [Ubuntu不能自动适应Vmware窗口大小](?file=001-出错解决手册（编程类）/00086-Ubuntu不能自动适应Vmware窗口大小 "Ubuntu不能自动适应Vmware窗口大小")
 - [Docker拉取镜像报错](?file=001-出错解决手册（编程类）/00087-Docker拉取镜像报错 "Docker拉取镜像报错")
+- [No installed provider supports this key SecretKeySpec](?file=001-出错解决手册（编程类）/00088-No installed provider supports this key SecretKeySpec "No installed provider supports this key SecretKeySpec")
 
 ##### 出错解决手册（其他）
 - [会声会影X5安装时出现错误7-zip：internal error, code 105](?file=002-出错解决手册（其他）/00001-会声会影X5安装时出现错误7-zip：internal error, code 105 "会声会影X5安装时出现错误7-zip：internal error, code 105")
